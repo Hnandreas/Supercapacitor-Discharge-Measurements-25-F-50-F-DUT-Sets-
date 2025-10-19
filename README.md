@@ -42,8 +42,7 @@ The `figures/` directory contains ESR-versus-current plots, reconstruction error
 If you use these data or figures, please cite both the related paper and the Zenodo record:
 
 - **Paper:** *[insert full bibliographic reference here]*  
-- **Zenodo record:** *[insert Zenodo DOI and title here]*
-
+- **Zenodo record:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392993.svg)](https://doi.org/10.5281/zenodo.17392993)
 ## License
 
 *(insert the licence or usage statement that applies to this dataset)*
