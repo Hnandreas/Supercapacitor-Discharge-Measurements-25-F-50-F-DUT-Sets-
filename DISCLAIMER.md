@@ -5,7 +5,7 @@ This repository (and any releases published here) contains preview and supplemen
 ## 1. Status & Data Availability
 
 - **Current Status:** The materials provided here are preliminary and intended for peer review and supplemental use only.
-- **Raw Data Publication:** **The full raw datasets and complete measurement files will ONLY be made publicly available after the associated manuscript has been officially accepted** by the target journal or conference.
+- **Raw Data Publication:** **The full raw datasets and complete measurement files will ONLY be made publicly available after the associated manuscript has been officially accepted** by the target journal.
 - **Analysis Code:** The complete analysis code remains private until manuscript acceptance, unless explicitly stated otherwise.
 - **This Version:** This repository currently contains preview materials only (example figures, reduced datasets, and documentation).
 
@@ -22,4 +22,4 @@ This repository (and any releases published here) contains preview and supplemen
 - Publication of a Zenodo DOI does not automatically imply that the full raw datasets are publicly accessible — check the Zenodo record for embargo and file access details.
 
 ## 5. Contact
-- For questions or requests (e.g., reviewer access to additional data), contact: Hnandreas (GitHub)
+- For questions or requests (e.g., reviewer access to additional data), contact: Andreas.Hanschek@uibk.ac.at
