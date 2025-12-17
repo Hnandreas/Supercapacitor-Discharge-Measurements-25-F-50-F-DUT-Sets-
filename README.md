@@ -77,7 +77,7 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 
 | Manufacturer | Dataset | U_r (V) | C_r (F) | R_ESR (mΩ) | Diameter (mm) | Length (mm) |
 |-------------|---------|---------|---------|------------|---------------|-------------|
-| Vishay | 1 & 2 | 3.0 | 50 | 22 | 18.0 | 35.0 |
+| Vishay | 1  | 3.0 | 50 | 22 | 18.0 | 35.0 |
 | Vishay | 2 | 3.0 | 25 | 34 | 16.0 | 25.0 |
 | Eaton | 2 | 3.0 | 25 | 18 | 16.5 | 28.9 |
 | Kyocera | 2 | 3.0 | 25 | 50 | 16.0 | 25.0 |
