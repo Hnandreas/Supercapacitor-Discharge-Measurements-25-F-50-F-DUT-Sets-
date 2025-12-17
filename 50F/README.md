@@ -70,15 +70,6 @@ Number of manufacturers: 1
 
 ---
 
-
-## Data Structure
-
-Suggested folder structure:
-- data/: raw or minimal example CSV/JSON/TDMS files for preview
-- processed/: processed / example data used for plots or short analyses
-- plots/: generated figures (PNG/JPG/SVG) for illustration
-- README.md: this file, describing contents and usage
-
 ## Important Notes
 
 - This repository/folder contains only preview material intended for reviewers and readers as supplementary material.
