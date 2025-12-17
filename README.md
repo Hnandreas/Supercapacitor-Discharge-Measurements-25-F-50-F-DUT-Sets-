@@ -49,7 +49,7 @@ The laboratory setup follows IEC 62391-1 and IEC 62576 standardized test procedu
 
 Each measurement cycle follows the standardized three-phase IEC sequence:
 
-1. **Constant-current charging (I_cc)** - Device charged to rated voltage U_r
+1. **Constant-current charging (I_ch)** - Device charged to rated voltage U_r
 2. **Voltage holding** - Maintained at U_r for 30 minutes to ensure charge stabilization  
 3. **Constant-current discharge (I_dch)** - Discharged at constant current down to target voltage (typically 0.1 × U_r)
 
@@ -96,6 +96,9 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 
 ## Measurement Campaign Overview
 
+- **50 F family**  
+  Eight Vishay DUTs (`DUT1–DUT8`), each recorded at three discharge currents (current levels are encoded in the filenames and headers).
+
 - **25 F family**  
   Manufacturers: Eaton, Kyocera (KEMET), Maxwell, Sech, Vishay, Würth Elektronik  
   - Three DUTs per manufacturer (`DUT1–DUT3`)  
@@ -103,20 +106,15 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
     - ≈0.03 A, 0.30 A, 3.0 A for Eaton, Kyocera (KEMET), Maxwell, Sech, Vishay  
     - 0.027 A, 0.27 A, 2.7 A for Würth Elektronik
 
-- **50 F family**  
-  Eight Vishay DUTs (`DUT1–DUT8`), each recorded at three discharge currents (current levels are encoded in the filenames and headers).
-
 ## File Format
 
 Each CSV represents a single discharge sweep:
 
 - `time_s` – time stamp in seconds  
 - `voltage_V` – measured terminal voltage  
-- `current_A` – applied discharge current (signed)  
-- `temperature_C` – present when measured  
 - `range_label` / `comment` – operating window (IEC 62391, IEC 62576, 90–20 %, etc.)
 
-The accompanying JSON header (`header_data`) stores additional parameters: holding voltage, `U3`, `U3_mean`, `I_dc`, ESR estimates, manufacturer name, DUT identifier, and measurement version.
+The accompanying JSON header (`header_data`) stores additional parameters: holding voltage, `U3`, `U3_mean`, `I_dch`, ESR estimates, manufacturer name, DUT identifier, and measurement version.
 
 ## Figures
 
