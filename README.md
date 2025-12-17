@@ -108,7 +108,7 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 
 ## File Format
 
-Each CSV represents a single discharge sweep:
+Each CSV represents a single discharge curve:
 
 - `time_s` – time stamp in seconds  
 - `voltage_V` – measured terminal voltage  
