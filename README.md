@@ -42,7 +42,7 @@ The laboratory setup follows IEC 62391-1 and IEC 62576 standardized test procedu
 
 - **Programmable DC power supply** - for constant-current charging and voltage holding phases
 - **Programmable electronic load** - for constant-current discharge testing
-- **High-resolution data acquisition system** (PicoLog) - for precise voltage, current, and temperature logging
+- **Data acquisition system** (PicoLog) - for precise voltage, current, and temperature logging
 - **Custom low-impedance test fixture** - with four-wire Kelvin connections to minimize parasitic effects and ensure accurate measurements
 
 ### Measurement Procedure
