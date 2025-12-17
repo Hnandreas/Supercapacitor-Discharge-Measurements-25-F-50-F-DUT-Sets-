@@ -1,6 +1,11 @@
 # Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-
 
-This repository publishes the raw discharge CSV logs and the derived figures from our supercapacitor characterization campaign. The analysis notebooks remain private; the published material captures the full measurement basis and visualization results.
+This repository publishes the raw discharge CSV logs and the derived figures from our supercapacitor characterization campaign. The analysis notebooks remain private; the published material captures the breadth of the measurement data.
+
+## Linked References
+
+- **25 F Measurements:** See [README](https://github.com/Hnandreas/Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-/blob/main/25F/README.md) for specific details related to the 25 F device under test (DUT).
+- **50 F Measurements:** See [README](https://github.com/Hnandreas/Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-/blob/main/50F/README.md) for specific details related to the 50 F DUT data.
 
 ## Dataset Structure
 
@@ -43,6 +48,7 @@ If you use these data or figures, please cite both the related paper and the Zen
 
 - **Paper:** *[insert full bibliographic reference here]*  
 - **Zenodo record:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392993.svg)](https://doi.org/10.5281/zenodo.17392993)
+
 ## License
 
-*(insert the licence or usage statement that applies to this dataset)*
+*(insert the license or usage statement that applies to this dataset)+
