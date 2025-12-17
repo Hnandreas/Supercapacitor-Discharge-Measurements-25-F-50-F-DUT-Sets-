@@ -125,4 +125,8 @@ If you use these data or figures, please cite both the related paper and the Zen
 
 ## License
 
-*(insert the license or usage statement that applies to this dataset)+
+The data in this repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). You are free to use, share, and adapt the data, as long as you provide proper attribution.
+
+## Disclaimer
+
+The data is provided "as is" without any warranties. Please see the [LICENSE](./LICENSE) file for details.
