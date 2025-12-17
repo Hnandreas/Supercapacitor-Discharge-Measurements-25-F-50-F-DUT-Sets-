@@ -6,7 +6,7 @@ This folder contains measurement data, results and related files for supercapaci
 
 - [Dataset Overview](#dataset-overview)
 - [Discharge Curve Gallery](#discharge-curve-gallery)
-- [Data Structure](#data-structure)
+
 - [Important Notes](#important-notes)
 - [Related Links](#related-links)
 
