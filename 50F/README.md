@@ -1,23 +1,21 @@
 # Measurement Data – 50 F Supercapacitors
 
-This folder contains measurement data, results and related files for supercapacitor discharge tests using 50 F units (Vishay manufacturer). Only preview/example files that are safe to share publicly should be placed here. Do not upload full raw datasets or sensitive files.
-
+This folder contains measurement data, results and related files for supercapacitor discharge tests using 50 F units (Vishay manufacturer). 
 ## Contents
 
 - [Dataset Overview](#dataset-overview)
 - [Discharge Curve Gallery](#discharge-curve-gallery)
-- [Data Structure](#data-structure)
 - [Important Notes](#important-notes)
 - [Related Links](#related-links)
 
 ## Dataset Overview
 
-This dataset (Validation Set) includes eight 50 F, 3.0 V EDLCs from Vishay, all from the same production batch to ensure uniformity and to quantify consistency and variation within a single batch.
+This dataset (Validation Set) includes eight 50 F, 3.0 V EDLCs from Vishay, all from the same batch to ensure uniformity and to quantify consistency and variation within a single batch.
 
 The tests were conducted according to IEC 62391-1 using three discharge currents:
-- Method 1A Class current (Class 2, 0.06 A)
-- ESR current (ESR Class 2 / C Class 3, 0.60 A)  
-- Method 1B high-current discharge (3.41 A, corresponding to 95% efficiency criterion)
+- Method 1A Class 2 0.06 A
+- Method 1A Class 3 0.06 A 
+- Method 1B Class 3-4-5: 3.41 A (corresponding to 95% efficiency criterion)
 
 Each DUT was tested under all three conditions, resulting in 24 discharge curves total. For detailed information about the experimental setup and measurement procedures, see the [Main Repository README](../README.md#experimental-setup-and-methodology).
 
@@ -75,7 +73,7 @@ Number of manufacturers: 1
 - This repository/folder contains only preview material intended for reviewers and readers as supplementary material.
 - Full datasets and the full analysis code remain private until the associated manuscript is accepted.
 - Replace example files with the final public artifacts only after acceptance, or provide them under an explicit embargo controlled through Zenodo or a similar repository.
-- Contact for questions: Hnandreas (GitHub)
+- Contact for questions: Andreas.Hanschek@uibk.ac.at
 
 ## Related Links
 
