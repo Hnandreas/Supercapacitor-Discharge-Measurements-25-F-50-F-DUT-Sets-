@@ -92,7 +92,6 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 - `data/25F/` – CSV files for all 25 F devices under test (DUTs)
 - `data/50F/` – CSV files for all 50 F DUTs (eight Vishay samples)
 - `figures/` – exported plots (ESR vs. discharge current, voltage reconstruction error, etc.)
-- `metadata/` – optional summary tables (e.g., U3/I_dc statistics, ESR aggregates)
 
 ## Measurement Campaign Overview
 
@@ -113,8 +112,6 @@ Each CSV represents a single discharge curve:
 - `time_s` – time stamp in seconds  
 - `voltage_V` – measured terminal voltage  
 - `range_label` / `comment` – operating window (IEC 62391, IEC 62576, 90–20 %, etc.)
-
-The accompanying JSON header (`header_data`) stores additional parameters: holding voltage, `U3`, `U3_mean`, `I_dch`, ESR estimates, manufacturer name, DUT identifier, and measurement version.
 
 ## Figures
 
