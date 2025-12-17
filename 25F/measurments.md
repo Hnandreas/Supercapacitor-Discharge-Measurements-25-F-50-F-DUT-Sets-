@@ -1,6 +1,6 @@
 # Discharge Curve EDLC
 
-Nr of manufacturers: 6
+Number of manufacturers: 6
 
 ---
 
@@ -17,9 +17,9 @@ Nr of manufacturers: 6
 
 ## Eaton
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: Eaton_25F_C_A2.png
+### Image 1: Eaton_25F_C_A2.png
 
 ![Eaton_25F_C_A2.png](Eaton_25F_C_A2.png)
 
@@ -27,11 +27,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Eaton_25F_C_A2.png`
+**Path:** `Eaton_25F_C_A2.png`
 
 ---
 
-### Bild 2: Eaton_25F_C_A3.png
+### Image 2: Eaton_25F_C_A3.png
 
 ![Eaton_25F_C_A3.png](Eaton_25F_C_A3.png)
 
@@ -39,11 +39,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Eaton_25F_C_A3.png`
+**Path:** `Eaton_25F_C_A3.png`
 
 ---
 
-### Bild 3: Eaton_25F_C_A4.png
+### Image 3: Eaton_25F_C_A4.png
 
 ![Eaton_25F_C_A4.png](Eaton_25F_C_A4.png)
 
@@ -51,11 +51,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Eaton_25F_C_A4.png`
+**Path:** `Eaton_25F_C_A4.png`
 
 ---
 
-### Bild 4: Eaton_25F_C_B1.png
+### Image 4: Eaton_25F_C_B1.png
 
 ![Eaton_25F_C_B1.png](Eaton_25F_C_B1.png)
 
@@ -63,15 +63,15 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Eaton_25F_C_B1.png`
+**Path:** `Eaton_25F_C_B1.png`
 
 ---
 
 ## Kyocera
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: Kyocera_25F_C_A2.png
+### Image 1: Kyocera_25F_C_A2.png
 
 ![Kyocera_25F_C_A2.png](Kyocera_25F_C_A2.png)
 
@@ -79,11 +79,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Kyocera_25F_C_A2.png`
+**Path:** `Kyocera_25F_C_A2.png`
 
 ---
 
-### Bild 2: Kyocera_25F_C_A3.png
+### Image 2: Kyocera_25F_C_A3.png
 
 ![Kyocera_25F_C_A3.png](Kyocera_25F_C_A3.png)
 
@@ -91,11 +91,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Kyocera_25F_C_A3.png`
+**Path:** `Kyocera_25F_C_A3.png`
 
 ---
 
-### Bild 3: Kyocera_25F_C_A4.png
+### Image 3: Kyocera_25F_C_A4.png
 
 ![Kyocera_25F_C_A4.png](Kyocera_25F_C_A4.png)
 
@@ -103,11 +103,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Kyocera_25F_C_A4.png`
+**Path:** `Kyocera_25F_C_A4.png`
 
 ---
 
-### Bild 4: Kyocera_25F_C_B1.png
+### Image 4: Kyocera_25F_C_B1.png
 
 ![Kyocera_25F_C_B1.png](Kyocera_25F_C_B1.png)
 
@@ -115,15 +115,15 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Kyocera_25F_C_B1.png`
+**Path:** `Kyocera_25F_C_B1.png`
 
 ---
 
 ## Maxwell
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: Maxwell_25F_C_A2.png
+### Image 1: Maxwell_25F_C_A2.png
 
 ![Maxwell_25F_C_A2.png](Maxwell_25F_C_A2.png)
 
@@ -131,11 +131,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Maxwell_25F_C_A2.png`
+**Path:** `Maxwell_25F_C_A2.png`
 
 ---
 
-### Bild 2: Maxwell_25F_C_A3.png
+### Image 2: Maxwell_25F_C_A3.png
 
 ![Maxwell_25F_C_A3.png](Maxwell_25F_C_A3.png)
 
@@ -143,11 +143,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Maxwell_25F_C_A3.png`
+**Path:** `Maxwell_25F_C_A3.png`
 
 ---
 
-### Bild 3: Maxwell_25F_C_A4.png
+### Image 3: Maxwell_25F_C_A4.png
 
 ![Maxwell_25F_C_A4.png](Maxwell_25F_C_A4.png)
 
@@ -155,11 +155,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Maxwell_25F_C_A4.png`
+**Path:** `Maxwell_25F_C_A4.png`
 
 ---
 
-### Bild 4: Maxwell_25F_C_B1.png
+### Image 4: Maxwell_25F_C_B1.png
 
 ![Maxwell_25F_C_B1.png](Maxwell_25F_C_B1.png)
 
@@ -167,15 +167,15 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Maxwell_25F_C_B1.png`
+**Path:** `Maxwell_25F_C_B1.png`
 
 ---
 
 ## Sech
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: Sech_25F_C_A2.png
+### Image 1: Sech_25F_C_A2.png
 
 ![Sech_25F_C_A2.png](Sech_25F_C_A2.png)
 
@@ -183,11 +183,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Sech_25F_C_A2.png`
+**Path:** `Sech_25F_C_A2.png`
 
 ---
 
-### Bild 2: Sech_25F_C_A3.png
+### Image 2: Sech_25F_C_A3.png
 
 ![Sech_25F_C_A3.png](Sech_25F_C_A3.png)
 
@@ -195,11 +195,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Sech_25F_C_A3.png`
+**Path:** `Sech_25F_C_A3.png`
 
 ---
 
-### Bild 3: Sech_25F_C_A4_.png
+### Image 3: Sech_25F_C_A4_.png
 
 ![Sech_25F_C_A4_.png](Sech_25F_C_A4_.png)
 
@@ -207,11 +207,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Sech_25F_C_A4_.png`
+**Path:** `Sech_25F_C_A4_.png`
 
 ---
 
-### Bild 4: Sech_25F_C_B1.png
+### Image 4: Sech_25F_C_B1.png
 
 ![Sech_25F_C_B1.png](Sech_25F_C_B1.png)
 
@@ -219,15 +219,15 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Sech_25F_C_B1.png`
+**Path:** `Sech_25F_C_B1.png`
 
 ---
 
 ## Vishay
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: Vishay_25F_C_A2.png
+### Image 1: Vishay_25F_C_A2.png
 
 ![Vishay_25F_C_A2.png](Vishay_25F_C_A2.png)
 
@@ -235,11 +235,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Vishay_25F_C_A2.png`
+**Path:** `Vishay_25F_C_A2.png`
 
 ---
 
-### Bild 2: Vishay_25F_C_A3.png
+### Image 2: Vishay_25F_C_A3.png
 
 ![Vishay_25F_C_A3.png](Vishay_25F_C_A3.png)
 
@@ -247,11 +247,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Vishay_25F_C_A3.png`
+**Path:** `Vishay_25F_C_A3.png`
 
 ---
 
-### Bild 3: Vishay_25F_C_A4.png
+### Image 3: Vishay_25F_C_A4.png
 
 ![Vishay_25F_C_A4.png](Vishay_25F_C_A4.png)
 
@@ -259,11 +259,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Vishay_25F_C_A4.png`
+**Path:** `Vishay_25F_C_A4.png`
 
 ---
 
-### Bild 4: Vishay_25F_C_B1.png
+### Image 4: Vishay_25F_C_B1.png
 
 ![Vishay_25F_C_B1.png](Vishay_25F_C_B1.png)
 
@@ -271,15 +271,15 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `Vishay_25F_C_B1.png`
+**Path:** `Vishay_25F_C_B1.png`
 
 ---
 
 ## WürthElektronik
 
-**Anzahl Bilder:** 4
+**Number of Images:** 4
 
-### Bild 1: WürthElektronik_25F_C_A2.png
+### Image 1: WürthElektronik_25F_C_A2.png
 
 ![WürthElektronik_25F_C_A2.png](WürthElektronik_25F_C_A2.png)
 
@@ -287,11 +287,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `WürthElektronik_25F_C_A2.png`
+**Path:** `WürthElektronik_25F_C_A2.png`
 
 ---
 
-### Bild 2: WürthElektronik_25F_C_A3.png
+### Image 2: WürthElektronik_25F_C_A3.png
 
 ![WürthElektronik_25F_C_A3.png](WürthElektronik_25F_C_A3.png)
 
@@ -299,11 +299,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `WürthElektronik_25F_C_A3.png`
+**Path:** `WürthElektronik_25F_C_A3.png`
 
 ---
 
-### Bild 3: WürthElektronik_25F_C_A4.png
+### Image 3: WürthElektronik_25F_C_A4.png
 
 ![WürthElektronik_25F_C_A4.png](WürthElektronik_25F_C_A4.png)
 
@@ -311,11 +311,11 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `WürthElektronik_25F_C_A4.png`
+**Path:** `WürthElektronik_25F_C_A4.png`
 
 ---
 
-### Bild 4: WürthElektronik_25F_C_B1.png
+### Image 4: WürthElektronik_25F_C_B1.png
 
 ![WürthElektronik_25F_C_B1.png](WürthElektronik_25F_C_B1.png)
 
@@ -323,7 +323,7 @@ Nr of manufacturers: 6
 
 **Capacitance:** `25F`
 
-**Pfad:** `WürthElektronik_25F_C_B1.png`
+**Path:** `WürthElektronik_25F_C_B1.png`
 
 ---
 

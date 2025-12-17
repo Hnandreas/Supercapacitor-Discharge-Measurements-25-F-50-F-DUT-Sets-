@@ -1,11 +1,19 @@
 # Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-
 
+**⚠️ IMPORTANT:** Please read the [DISCLAIMER](DISCLAIMER.md) before using or distributing any content from this repository.
+
 This repository publishes the raw discharge CSV logs and the derived figures from our supercapacitor characterization campaign. The analysis notebooks remain private; the published material captures the breadth of the measurement data.
 
 ## Linked References
 
-- **25 F Measurements:** See [README](https://github.com/Hnandreas/Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-/blob/main/25F/README.md) for specific details related to the 25 F device under test (DUT).
-- **50 F Measurements:** See [README](https://github.com/Hnandreas/Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-/blob/main/50F/README.md) for specific details related to the 50 F DUT data.
+- **25 F Measurements:** 
+  - [Dataset README](25F/README.md) - General information about the 25 F device under test (DUT) dataset
+  - [Discharge Curves](25F/measurments.md) - Visual overview of all 25 F discharge measurement curves
+- **50 F Measurements:** 
+  - [Dataset README](50F/README.md) - General information about the 50 F DUT dataset  
+  - [Discharge Curves](50F/measurments.md) - Visual overview of all 50 F discharge measurement curves
+- **Disclaimer:** [DISCLAIMER.md](DISCLAIMER.md) - Important usage and distribution information
+- **Release Notes:** [RELEASE_NOTES.md](RELEASE_NOTES.md) - Version and release information
 
 ## Dataset Structure
 

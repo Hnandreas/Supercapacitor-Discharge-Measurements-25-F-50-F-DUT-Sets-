@@ -1,6 +1,6 @@
 # Discharge Curve EDLC
 
-Nr of manufacturers: 1
+Number of manufacturers: 1
 
 ---
 
@@ -12,9 +12,9 @@ Nr of manufacturers: 1
 
 ## Vishay
 
-**Anzahl Bilder:** 3
+**Number of Images:** 3
 
-### Bild 1: Vishay_50F_C_A2.png
+### Image 1: Vishay_50F_C_A2.png
 
 ![Vishay_50F_C_A2.png](Vishay_50F_C_A2.png)
 
@@ -22,11 +22,11 @@ Nr of manufacturers: 1
 
 **Capacitance:** `50F`
 
-**Pfad:** `Vishay_50F_C_A2.png`
+**Path:** `Vishay_50F_C_A2.png`
 
 ---
 
-### Bild 2: Vishay_50F_C_A3.png
+### Image 2: Vishay_50F_C_A3.png
 
 ![Vishay_50F_C_A3.png](Vishay_50F_C_A3.png)
 
@@ -34,11 +34,11 @@ Nr of manufacturers: 1
 
 **Capacitance:** `50F`
 
-**Pfad:** `Vishay_50F_C_A3.png`
+**Path:** `Vishay_50F_C_A3.png`
 
 ---
 
-### Bild 3: Vishay_50F_C_B1.png
+### Image 3: Vishay_50F_C_B1.png
 
 ![Vishay_50F_C_B1.png](Vishay_50F_C_B1.png)
 
@@ -46,7 +46,7 @@ Nr of manufacturers: 1
 
 **Capacitance:** `50F`
 
-**Pfad:** `Vishay_50F_C_B1.png`
+**Path:** `Vishay_50F_C_B1.png`
 
 ---
 
