@@ -1,6 +1,6 @@
 # Measurement Data – 25 F Supercapacitors
 
-This folder contains measurement data, results and related files for supercapacitor discharge tests using 25 F units from six different manufacturers. Only preview/example files that are safe to share publicly should be placed here. Do not upload full raw datasets or sensitive files.
+This folder contains measurement data, results and related files for supercapacitor discharge tests using 25 F units from six different manufacturers. 
 
 ## Contents
 
@@ -12,10 +12,10 @@ This folder contains measurement data, results and related files for supercapaci
 
 ## Dataset Overview
 
-This dataset (Multi-Manufacturer Set) includes six manufacturers, each represented by three 25 F devices from the same production batch to ensure statistical consistency:
+This dataset (Multi-Manufacturer Set) includes six manufacturers, each represented by three 25 F devices from the same batch to ensure statistical consistency:
 
 - Eaton
-- Kyocera (KEMET)
+- Kyocera
 - Maxwell
 - Sech
 - Vishay
@@ -40,7 +40,7 @@ Number of manufacturers: 6
 
 ## Eaton
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: Eaton_25F_C_A2.png
 
@@ -78,21 +78,9 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: Eaton_25F_C_B1.png
-
-![Eaton_25F_C_B1.png](Eaton_25F_C_B1.png)
-
-**Manufacturer:** `Eaton`
-
-**Capacitance:** `25F`
-
-**Path:** `Eaton_25F_C_B1.png`
-
----
-
 ## Kyocera
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: Kyocera_25F_C_A2.png
 
@@ -130,21 +118,9 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: Kyocera_25F_C_B1.png
-
-![Kyocera_25F_C_B1.png](Kyocera_25F_C_B1.png)
-
-**Manufacturer:** `Kyocera`
-
-**Capacitance:** `25F`
-
-**Path:** `Kyocera_25F_C_B1.png`
-
----
-
 ## Maxwell
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: Maxwell_25F_C_A2.png
 
@@ -182,21 +158,9 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: Maxwell_25F_C_B1.png
-
-![Maxwell_25F_C_B1.png](Maxwell_25F_C_B1.png)
-
-**Manufacturer:** `Maxwell`
-
-**Capacitance:** `25F`
-
-**Path:** `Maxwell_25F_C_B1.png`
-
----
-
 ## Sech
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: Sech_25F_C_A2.png
 
@@ -234,21 +198,9 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: Sech_25F_C_B1.png
-
-![Sech_25F_C_B1.png](Sech_25F_C_B1.png)
-
-**Manufacturer:** `Sech`
-
-**Capacitance:** `25F`
-
-**Path:** `Sech_25F_C_B1.png`
-
----
-
 ## Vishay
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: Vishay_25F_C_A2.png
 
@@ -286,21 +238,9 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: Vishay_25F_C_B1.png
-
-![Vishay_25F_C_B1.png](Vishay_25F_C_B1.png)
-
-**Manufacturer:** `Vishay`
-
-**Capacitance:** `25F`
-
-**Path:** `Vishay_25F_C_B1.png`
-
----
-
 ## WürthElektronik
 
-**Number of Images:** 4
+**Number of Images:** 3
 
 ### Image 1: WürthElektronik_25F_C_A2.png
 
@@ -338,24 +278,11 @@ Number of manufacturers: 6
 
 ---
 
-### Image 4: WürthElektronik_25F_C_B1.png
-
-![WürthElektronik_25F_C_B1.png](WürthElektronik_25F_C_B1.png)
-
-**Manufacturer:** `WürthElektronik`
-
-**Capacitance:** `25F`
-
-**Path:** `WürthElektronik_25F_C_B1.png`
-
----
-
 ## Important Notes
 
 - This repository/folder contains only preview material intended for reviewers and readers as supplementary material.
-- Full datasets and the full analysis code remain private until the associated manuscript is accepted.
-- Replace example files with the final public artifacts only after acceptance, or provide them under an explicit embargo controlled through Zenodo or a similar repository.
-- Contact for questions: Hnandreas (GitHub)
+- Full datasets remain private until the associated manuscript is accepted.
+- Contact for questions: Andreas.Hanschek@uibk.ac.at
 
 ## Related Links
 
