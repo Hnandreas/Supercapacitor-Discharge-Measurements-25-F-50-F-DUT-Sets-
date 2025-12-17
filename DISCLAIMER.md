@@ -1,12 +1,11 @@
 # Disclaimer / Usage Notice
 
-This repository (and any releases published here) contains preview and supplementary materials related to a planned scientific publication. **Please read the following carefully before using or distributing any content.**
+This repository (and any releases published here) contains preview and supplementary materials related to a scientific publication. **Please read the following carefully before using or distributing any content.**
 
 ## 1. Status & Data Availability
 
 - **Current Status:** The materials provided here are preliminary and intended for peer review and supplemental use only.
-- **Raw Data Publication:** **The full raw datasets and complete measurement files will ONLY be made publicly available after the associated manuscript has been officially accepted** by the target journal.
-- **Analysis Code:** The complete analysis code remains private until manuscript acceptance, unless explicitly stated otherwise.
+- **Raw Data Publication:** **The full raw datasets and measurement files will ONLY be made publicly available after the associated manuscript has been officially accepted** by the target journal.
 - **This Version:** This repository currently contains preview materials only (example figures, reduced datasets, and documentation).
 
 ## 2. Redistribution & Reuse
