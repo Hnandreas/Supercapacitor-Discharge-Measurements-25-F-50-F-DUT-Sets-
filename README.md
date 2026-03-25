@@ -108,10 +108,8 @@ Each CSV represents a single discharge curve with its corresponding header.
 
 If you use these data or figures, please cite both the related paper and the Zenodo record:
 
-- **Paper:** A Standard-Aligned Framework for Voltage-Dependent Supercapacitor Characterization:
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FOJIA.2026.3675690-blue)](https://doi.org/10.1109/OJIA.2026.3675690)
-- **Zenodo record:** Supercapacitor Discharge Measurements 25F and 50F DUT-Sets:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392993.svg)](https://doi.org/10.5281/zenodo.17392993)
+- **Paper:** A Standard-Aligned Framework for Voltage-Dependent Supercapacitor Characterization:[![DOI](https://img.shields.io/badge/DOI-10.1109%2FOJIA.2026.3675690-blue)](https://doi.org/10.1109/OJIA.2026.3675690)
+- **Zenodo record:** Supercapacitor Discharge Measurements 25F and 50F DUT-Sets:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392993.svg)](https://doi.org/10.5281/zenodo.17392993)
 
 ## License
 
