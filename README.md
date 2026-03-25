@@ -1,7 +1,5 @@
 # Supercapacitor-Discharge-Measurements-25-F-50-F-DUT-Sets-
 
-**⚠️ IMPORTANT:** Please read the [DISCLAIMER](DISCLAIMER.md) before using or distributing any content from this repository.
-
 This repository publishes the raw discharge CSV logs and the derived figures from our supercapacitor characterization campaign. The analysis notebooks remain private; the published material captures the breadth of the measurement data.
 
 ## Table of Contents
@@ -20,7 +18,6 @@ This repository publishes the raw discharge CSV logs and the derived figures fro
   - [Dataset README & Discharge Curves](50F/README.md) - Eight Vishay 50 F devices tested at three current levels
 - **25 F Measurements (Multi-Manufacturer Set):**
   - [Dataset README & Discharge Curves](25F/README.md) - Six manufacturers, each with three 25 F devices tested at three current levels
-- **Disclaimer:** [DISCLAIMER.md](DISCLAIMER.md) - Important usage and distribution information
 - **Release Notes:** [RELEASE_NOTES.md](RELEASE_NOTES.md) - Version and release information
 
 ## Experimental Setup and Methodology
