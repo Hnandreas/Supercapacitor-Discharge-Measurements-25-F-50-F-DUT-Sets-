@@ -51,7 +51,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Eaton_25F_C_A2.png`
-
+* [Eaton: 25F, Methode A Class 2 DUT 1](./Eaton/C_A2_DUT1_V2_Eaton_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 2 DUT 2](./Eaton/C_A2_DUT2_V2_Eaton_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 2 DUT 3](./Eaton/C_A2_DUT3_V2_Eaton_25F_cut.csv)
 ---
 
 ### Image 2: Eaton_25F_C_A3.png
@@ -63,7 +65,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Eaton_25F_C_A3.png`
-
+* [Eaton: 25F, Methode A Class 3 DUT 1](./Eaton/C_A3_DUT1_V2_Eaton_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 3 DUT 2](./Eaton/C_A3_DUT2_V2_Eaton_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 3 DUT 3](./Eaton/C_A3_DUT3_V2_Eaton_25F_cut.csv)
 ---
 
 ### Image 3: Eaton_25F_C_A4.png
@@ -75,7 +79,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Eaton_25F_C_A4.png`
-
+* [Eaton: 25F, Methode A Class 4 DUT 1](./Eaton/C_A4_DUT1_V1_EATON_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 4 DUT 2](./Eaton/C_A4_DUT2_V1_EATON_25F_cut.csv)
+* [Eaton: 25F, Methode A Class 4 DUT 3](./Eaton/C_A4_DUT3_V1_EATON_25F_cut.csv)
 ---
 
 ## Kyocera
@@ -91,7 +97,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Kyocera_25F_C_A2.png`
-
+* [Kyocera: 25F, Methode A Class 2 DUT 1](./Kyocera/C_A2_DUT1_V2_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 2 DUT 2](./Kyocera/C_A2_DUT2_V2_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 2 DUT 3](./Kyocera/C_A2_DUT3_V2_Kyocera_25F_cut.csv)
 ---
 
 ### Image 2: Kyocera_25F_C_A3.png
@@ -103,7 +111,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Kyocera_25F_C_A3.png`
-
+* [Kyocera: 25F, Methode A Class 3 DUT 1](./Kyocera/C_A3_DUT1_V2_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 3 DUT 2](./Kyocera/C_A3_DUT2_V2_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 3 DUT 3](./Kyocera/C_A3_DUT3_V2_Kyocera_25F_cut.csv)
 ---
 
 ### Image 3: Kyocera_25F_C_A4.png
@@ -115,7 +125,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Kyocera_25F_C_A4.png`
-
+* [Kyocera: 25F, Methode A Class 4 DUT 1](./Kyocera/C_A4_DUT1_V1_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 4 DUT 2](./Kyocera/C_A4_DUT2_V1_Kyocera_25F_cut.csv)
+* [Kyocera: 25F, Methode A Class 4 DUT 3](./Kyocera/C_A4_DUT3_V1_Kyocera_25F_cut.csv)
 ---
 
 ## Maxwell
@@ -131,7 +143,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Maxwell_25F_C_A2.png`
-
+* [Maxwell: 25F, Methode A Class 2 DUT 1](./Maxwell/C_A2_DUT1_V2_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 2 DUT 2](./Maxwell/C_A2_DUT2_V2_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 2 DUT 3](./Maxwell/C_A2_DUT3_V2_Maxwell_25F_cut.csv)
 ---
 
 ### Image 2: Maxwell_25F_C_A3.png
@@ -143,7 +157,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Maxwell_25F_C_A3.png`
-
+* [Maxwell: 25F, Methode A Class 3 DUT 1](./Maxwell/C_A3_DUT1_V2_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 3 DUT 2](./Maxwell/C_A3_DUT2_V2_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 3 DUT 3](./Maxwell/C_A3_DUT3_V2_Maxwell_25F_cut.csv)
 ---
 
 ### Image 3: Maxwell_25F_C_A4.png
@@ -155,7 +171,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Maxwell_25F_C_A4.png`
-
+* [Maxwell: 25F, Methode A Class 4 DUT 1](./Maxwell/C_A4_DUT1_V1_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 4 DUT 2](./Maxwell/C_A4_DUT2_V1_Maxwell_25F_cut.csv)
+* [Maxwell: 25F, Methode A Class 4 DUT 3](./Maxwell/C_A4_DUT3_V1_Maxwell_25F_cut.csv)
 ---
 
 ## Sech
@@ -171,7 +189,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Sech_25F_C_A2.png`
-
+* [Sech: 25F, Methode A Class 2 DUT 1](./Sech/C_A2_DUT1_V2_Sech_25F_cut.csv)
+* [Sech: 25F, Methode A Class 2 DUT 2](./Sech/C_A2_DUT2_V2_Sech_25F_cut.csv)
+* [Sech: 25F, Methode A Class 2 DUT 3](./Sech/C_A2_DUT3_V2_Sech_25F_cut.csv)
 ---
 
 ### Image 2: Sech_25F_C_A3.png
@@ -183,7 +203,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Sech_25F_C_A3.png`
-
+* [Sech: 25F, Methode A Class 3 DUT 1](./Sech/C_A3_DUT1_V2_Sech_25F_cut.csv)
+* [Sech: 25F, Methode A Class 3 DUT 2](./Sech/C_A3_DUT2_V2_Sech_25F_cut.csv)
+* [Sech: 25F, Methode A Class 3 DUT 3](./Sech/C_A3_DUT3_V2_Sech_25F_cut.csv)
 ---
 
 ### Image 3: Sech_25F_C_A4_.png
@@ -195,7 +217,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Sech_25F_C_A4_.png`
-
+* [Sech: 25F, Methode A Class 4 DUT 1](./Sech/C_A4_DUT1_V1_SECH_25F_cut.csv)
+* [Sech: 25F, Methode A Class 4 DUT 2](./Sech/C_A4_DUT2_V1_SECH_25F_cut.csv)
+* [Sech: 25F, Methode A Class 4 DUT 3](./Sech/C_A4_DUT3_V1_SECH_25F_cut.csv)
 ---
 
 ## Vishay
@@ -211,7 +235,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Vishay_25F_C_A2.png`
-
+* [Vishay: 25F, Methode A Class 2 DUT 1](./Vishay/C_A2_DUT1_V2_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 2 DUT 2](./Vishay/C_A2_DUT2_V2_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 2 DUT 3](./Vishay/C_A2_DUT3_V2_Vishay_25F_cut.csv)
 ---
 
 ### Image 2: Vishay_25F_C_A3.png
@@ -223,7 +249,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Vishay_25F_C_A3.png`
-
+* [Vishay: 25F, Methode A Class 3 DUT 1](./Vishay/C_A3_DUT1_V2_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 3 DUT 2](./Vishay/C_A3_DUT2_V2_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 3 DUT 3](./Vishay/C_A3_DUT3_V2_Vishay_25F_cut.csv)
 ---
 
 ### Image 3: Vishay_25F_C_A4.png
@@ -235,7 +263,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `Vishay_25F_C_A4.png`
-
+* [Vishay: 25F, Methode A Class 4 DUT 1](./Vishay/C_A4_DUT1_V1_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 4 DUT 2](./Vishay/C_A4_DUT2_V1_Vishay_25F_cut.csv)
+* [Vishay: 25F, Methode A Class 4 DUT 3](./Vishay/C_A4_DUT3_V1_Vishay_25F_cut.csv)
 ---
 
 ## WürthElektronik
@@ -251,7 +281,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `WürthElektronik_25F_C_A2.png`
-
+* [Würth Elektronik: 25F, Methode A Class 2 DUT 1](./WürthElektronik/C_A2_DUT1_V2_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 2 DUT 2](./WürthElektronik/C_A2_DUT2_V2_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 2 DUT 3](./WürthElektronik/C_A2_DUT3_V2_WuerthElektronik_25F_cut.csv)
 ---
 
 ### Image 2: WürthElektronik_25F_C_A3.png
@@ -263,7 +295,9 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `WürthElektronik_25F_C_A3.png`
-
+* [Würth Elektronik: 25F, Methode A Class 3 DUT 1](./WürthElektronik/C_A3_DUT1_V2_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 3 DUT 2](./WürthElektronik/C_A3_DUT2_V2_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 3 DUT 3](./WürthElektronik/C_A3_DUT3_V2_WuerthElektronik_25F_cut.csv)
 ---
 
 ### Image 3: WürthElektronik_25F_C_A4.png
@@ -275,13 +309,13 @@ Number of manufacturers: 6
 **Capacitance:** `25F`
 
 **Path:** `WürthElektronik_25F_C_A4.png`
-
+* [Würth Elektronik: 25F, Methode A Class 4 DUT 1](./WürthElektronik/C_A4_DUT1_V1_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 4 DUT 2](./WürthElektronik/C_A4_DUT2_V1_WuerthElektronik_25F_cut.csv)
+* [Würth Elektronik: 25F, Methode A Class 4 DUT 3](./WürthElektronik/C_A4_DUT3_V1_WuerthElektronik_25F_cut.csv)
 ---
 
 ## Important Notes
 
-- This repository/folder contains only preview material intended for reviewers and readers as supplementary material.
-- Full datasets remain private until the associated manuscript is accepted.
 - Contact for questions: Andreas.Hanschek@uibk.ac.at
 
 ## Related Links
