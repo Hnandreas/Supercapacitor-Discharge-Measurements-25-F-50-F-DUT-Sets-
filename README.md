@@ -105,10 +105,6 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 Each CSV represents a single discharge curve with its corresponding header.
 
 
-## Figures
-
-The `figures/` directory contains ESR-versus-current plots, reconstruction error comparisons, and method-overview charts generated from the published CSV files.
-
 ## Citation
 
 If you use these data or figures, please cite both the related paper and the Zenodo record:
