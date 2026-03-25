@@ -106,11 +106,8 @@ Main characteristics of tested supercapacitors (from manufacturer datasheets):
 
 ## File Format
 
-Each CSV represents a single discharge curve:
+Each CSV represents a single discharge curve with its corresponding header.
 
-- `time_s` – time stamp in seconds  
-- `voltage_V` – measured terminal voltage  
-- `range_label` / `comment` – operating window (IEC 62391, IEC 62576, 90–20 %, etc.)
 
 ## Figures
 
@@ -120,7 +117,7 @@ The `figures/` directory contains ESR-versus-current plots, reconstruction error
 
 If you use these data or figures, please cite both the related paper and the Zenodo record:
 
-- **Paper:** *[A Standard - Aligned Framework for Voltage-Dependent Supercapacitor Characterization]*  
+- **Paper:**  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FOJIA.2026.3675690-blue)](https://doi.org/10.1109/OJIA.2026.3675690)
 - **Zenodo record:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392993.svg)](https://doi.org/10.5281/zenodo.17392993)
 
 ## License
