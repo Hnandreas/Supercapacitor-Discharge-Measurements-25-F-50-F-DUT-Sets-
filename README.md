@@ -9,7 +9,6 @@ This repository publishes the raw discharge CSV logs and the derived figures fro
 - [Dataset Structure](#dataset-structure)
 - [Measurement Campaign Overview](#measurement-campaign-overview)
 - [File Format](#file-format)
-- [Figures](#figures)
 - [Citation](#citation)
 - [License](#license)
 
