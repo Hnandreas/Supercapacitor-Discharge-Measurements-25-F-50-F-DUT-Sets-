@@ -18,7 +18,6 @@ This repository publishes the raw discharge CSV logs and the derived figures fro
   - [Dataset README & Discharge Curves](50F/README.md) - Eight Vishay 50 F devices tested at three current levels
 - **25 F Measurements (Multi-Manufacturer Set):**
   - [Dataset README & Discharge Curves](25F/README.md) - Six manufacturers, each with three 25 F devices tested at three current levels
-- **Release Notes:** [RELEASE_NOTES.md](RELEASE_NOTES.md) - Version and release information
 
 ## Experimental Setup and Methodology
 
