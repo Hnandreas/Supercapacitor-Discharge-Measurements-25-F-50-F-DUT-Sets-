@@ -41,7 +41,14 @@ Number of manufacturers: 1
 **Capacitance:** `50F`
 
 **Path:** `Vishay_50F_C_A2.png`
-
+* [Vishay: 50F, Methode A Class 2 DUT 1](./Vishay/C_A2_DUT1_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 2](./Vishay/C_A2_DUT2_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 3](./Vishay/C_A2_DUT3_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 4](./Vishay/C_A2_DUT4_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 5](./Vishay/C_A2_DUT5_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 6](./Vishay/C_A2_DUT6_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 7](./Vishay/C_A2_DUT7_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 2 DUT 8](./Vishay/C_A2_DUT8_V1_Vishay_50F_cut.csv)
 ---
 
 ### Image 2: Vishay_50F_C_A3.png
@@ -53,7 +60,14 @@ Number of manufacturers: 1
 **Capacitance:** `50F`
 
 **Path:** `Vishay_50F_C_A3.png`
-
+* [Vishay: 50F, Methode A Class 3 DUT 1](./Vishay/C_A3_DUT1_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 2](./Vishay/C_A3_DUT2_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 3](./Vishay/C_A3_DUT3_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 4](./Vishay/C_A3_DUT4_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 5](./Vishay/C_A3_DUT5_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 6](./Vishay/C_A3_DUT6_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 7](./Vishay/C_A3_DUT7_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode A Class 3 DUT 8](./Vishay/C_A3_DUT8_V1_Vishay_50F_cut.csv)
 ---
 
 ### Image 3: Vishay_50F_C_B1.png
@@ -65,14 +79,17 @@ Number of manufacturers: 1
 **Capacitance:** `50F`
 
 **Path:** `Vishay_50F_C_B1.png`
-
+* [Vishay: 50F, Methode B Class 1 DUT 1](./Vishay/C_B1_DUT1_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 2](./Vishay/C_B1_DUT2_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 3](./Vishay/C_B1_DUT3_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 4](./Vishay/C_B1_DUT4_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 5](./Vishay/C_B1_DUT5_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 6](./Vishay/C_B1_DUT6_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 7](./Vishay/C_B1_DUT7_V1_Vishay_50F_cut.csv)
+* [Vishay: 50F, Methode B Class 1 DUT 8](./Vishay/C_B1_DUT8_V1_Vishay_50F_cut.csv)
 ---
 
 ## Important Notes
-
-- This repository/folder contains only preview material intended for reviewers and readers as supplementary material.
-- Full datasets and the full analysis code remain private until the associated manuscript is accepted.
-- Replace example files with the final public artifacts only after acceptance, or provide them under an explicit embargo controlled through Zenodo or a similar repository.
 - Contact for questions: Andreas.Hanschek@uibk.ac.at
 
 ## Related Links
