@@ -1,6 +1,6 @@
 # Measurement Data – 50 F Supercapacitors
 
-This folder contains measurement data, results and related files for supercapacitor discharge tests using 50 F units (Vishay manufacturer). 
+This folder contains measurement data, results and related files for supercapacitor discharge tests using 50 F units (Manufacturer: Vishay). 
 ## Contents
 
 - [Dataset Overview](#dataset-overview)
@@ -95,5 +95,4 @@ Number of manufacturers: 1
 ## Related Links
 
 - [Main Repository README](../README.md) - Includes experimental setup and methodology
-- [DISCLAIMER](../DISCLAIMER.md) - Important usage and distribution information
 - [25 F Measurements](../25F/README.md)
