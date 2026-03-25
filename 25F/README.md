@@ -321,5 +321,4 @@ Number of manufacturers: 6
 ## Related Links
 
 - [Main Repository README](../README.md) - Includes experimental setup and methodology
-- [DISCLAIMER](../DISCLAIMER.md) - Important usage and distribution information
 - [50 F Measurements](../50F/README.md)
